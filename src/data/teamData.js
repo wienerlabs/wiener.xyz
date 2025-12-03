@@ -68,54 +68,56 @@ export const teamData = [
             { name: "DAO Governance System", role: "Tech Lead", tech: ["Smart Contracts", "Web3"] }
         ]
     },
-    {
-        key: 3,
-        id: "samet-ozetci",
-        title: "Samet Ozetci",
-        role: "Co-Founder & COO",
-        img: img3,
-        github: "sametozetci",
-        spotifyTrackId: "3cfOd4CMv2snFaKAnMdnvK", // Starboy - The Weeknd
-        bio: "Operations expert specializing in scaling Web3 companies. Proven track record in project delivery and team management.",
-        expertise: ["Operations Management", "Project Delivery", "Process Optimization", "Agile", "Team Leadership"],
-        achievements: [
-            "Scaled team from 5 to 50+ members",
-            "Delivered 87 projects on time",
-            "Reduced operational costs by 40%",
-            "Built remote-first culture"
-        ],
-        education: "MBA Operations, BSc Industrial Engineering",
-        location: "Istanbul, Turkey",
-        languages: ["Turkish", "English", "Spanish"],
-        projects: [
-            { name: "Project Management Platform", role: "COO", tech: ["React", "Node.js", "PostgreSQL"] },
-            { name: "Client Portal System", role: "Operations Lead", tech: ["Next.js", "GraphQL"] }
-        ]
-    },
-    {
-        key: 4,
-        id: "emir-bilal-ozkan",
-        title: "Emir Bilal Ozkan",
-        role: "Co-Founder & CFO",
-        img: img4,
-        github: "emirbilalozkan",
-        spotifyTrackId: "7qiZfU4dY1lWllzX7mPBI", // Shape of You - Ed Sheeran
-        bio: "Financial strategist with expertise in tokenomics and institutional partnerships. Former investment banker turned Web3 finance expert.",
-        expertise: ["Financial Strategy", "Tokenomics", "Institutional Relations", "DeFi", "Risk Management"],
-        achievements: [
-            "Structured $28M in tokenized assets",
-            "Partnered with 15+ institutions",
-            "Designed tokenomics for 20+ projects",
-            "Former VP at Goldman Sachs"
-        ],
-        education: "MBA Finance, CFA Charterholder",
-        location: "Istanbul, Turkey",
-        languages: ["Turkish", "English", "French"],
-        projects: [
-            { name: "Asset Tokenization Framework", role: "CFO", tech: ["Blockchain", "Smart Contracts"] },
-            { name: "DeFi Lending Protocol", role: "Financial Architect", tech: ["Ethereum", "Solidity"] }
-        ]
-    },
+    // COMMENTED OUT - Samet Ozetci (may be added back later)
+    // {
+    //     key: 3,
+    //     id: "samet-ozetci",
+    //     title: "Samet Ozetci",
+    //     role: "Co-Founder & COO",
+    //     img: img3,
+    //     github: "sametozetci",
+    //     spotifyTrackId: "3cfOd4CMv2snFaKAnMdnvK", // Starboy - The Weeknd
+    //     bio: "Operations expert specializing in scaling Web3 companies. Proven track record in project delivery and team management.",
+    //     expertise: ["Operations Management", "Project Delivery", "Process Optimization", "Agile", "Team Leadership"],
+    //     achievements: [
+    //         "Scaled team from 5 to 50+ members",
+    //         "Delivered 87 projects on time",
+    //         "Reduced operational costs by 40%",
+    //         "Built remote-first culture"
+    //     ],
+    //     education: "MBA Operations, BSc Industrial Engineering",
+    //     location: "Istanbul, Turkey",
+    //     languages: ["Turkish", "English", "Spanish"],
+    //     projects: [
+    //         { name: "Project Management Platform", role: "COO", tech: ["React", "Node.js", "PostgreSQL"] },
+    //         { name: "Client Portal System", role: "Operations Lead", tech: ["Next.js", "GraphQL"] }
+    //     ]
+    // },
+    // COMMENTED OUT - Emir Bilal Ozkan (may be added back later)
+    // {
+    //     key: 4,
+    //     id: "emir-bilal-ozkan",
+    //     title: "Emir Bilal Ozkan",
+    //     role: "Co-Founder & CFO",
+    //     img: img4,
+    //     github: "emirbilalozkan",
+    //     spotifyTrackId: "7qiZfU4dY1lWllzX7mPBI", // Shape of You - Ed Sheeran
+    //     bio: "Financial strategist with expertise in tokenomics and institutional partnerships. Former investment banker turned Web3 finance expert.",
+    //     expertise: ["Financial Strategy", "Tokenomics", "Institutional Relations", "DeFi", "Risk Management"],
+    //     achievements: [
+    //         "Structured $28M in tokenized assets",
+    //         "Partnered with 15+ institutions",
+    //         "Designed tokenomics for 20+ projects",
+    //         "Former VP at Goldman Sachs"
+    //     ],
+    //     education: "MBA Finance, CFA Charterholder",
+    //     location: "Istanbul, Turkey",
+    //     languages: ["Turkish", "English", "French"],
+    //     projects: [
+    //         { name: "Asset Tokenization Framework", role: "CFO", tech: ["Blockchain", "Smart Contracts"] },
+    //         { name: "DeFi Lending Protocol", role: "Financial Architect", tech: ["Ethereum", "Solidity"] }
+    //     ]
+    // },
     {
         key: 5,
         id: "muhammed-akinci",
