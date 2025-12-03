@@ -25,7 +25,7 @@ export const teamData = [
             "dante-gpu/dante-cli-sdk",
             "virjilakrum/zk-lokomotive"
         ],
-        spotifyTrackId: "28TeosAOQZvsftj5ZxucaX", // TAK TAK TAK - Lvbel C5
+        spotifyTrackId: "3oQPYcqZtfR2wGa2yoCfEW", // Bir Acayip Adam - Ahmet Kaya
         bio: "Visionary leader with 8+ years in blockchain and fintech. Led multiple successful tokenization projects across Solana and Ethereum ecosystems.",
         expertise: ["Strategic Planning", "Business Development", "Web3 Strategy", "Tokenomics", "Fundraising"],
         achievements: [
@@ -35,7 +35,7 @@ export const teamData = [
             "Speaker at 10+ blockchain conferences"
         ],
         education: "MBA in Finance, BSc Computer Science",
-        location: "Istanbul, Turkey",
+        location: "Konya, Turkey",
         languages: ["Turkish", "English", "German"],
         projects: [
             { name: "Wiener Labs Arbitrage", role: "Founder", tech: ["Solana", "Rust", "React"] },
@@ -60,7 +60,7 @@ export const teamData = [
             "Mentor at ETHGlobal hackathons"
         ],
         education: "PhD Computer Science, MSc Cryptography",
-        location: "Istanbul, Turkey",
+        location: "Ankara, Turkey",
         languages: ["Turkish", "English"],
         projects: [
             { name: "Multi-chain Bridge Protocol", role: "Lead Architect", tech: ["Solidity", "Rust", "Go"] },
@@ -122,7 +122,7 @@ export const teamData = [
         key: 5,
         id: "muhammed-akinci",
         title: "Muhammed Akinci",
-        role: "Lead Backend & AI Developer",
+        role: "AI Developer",
         img: img5,
         github: "MuhammedAkinci",
         spotifyTrackId: "0DiWol3AO6WpXZgp0goxAV", // One Dance - Drake
@@ -135,8 +135,8 @@ export const teamData = [
             "Kaggle Grandmaster"
         ],
         education: "MSc Artificial Intelligence, BSc Computer Engineering",
-        location: "Istanbul, Turkey",
-        languages: ["Turkish", "English"],
+        location: "Ankara, Turkey",
+        languages: ["Turkish", "English", "Arabic", "Kurdish"],
         projects: [
             { name: "AI Trading Engine", role: "Lead Developer", tech: ["Python", "TensorFlow", "Redis"] },
             { name: "Predictive Analytics Platform", role: "ML Engineer", tech: ["PyTorch", "FastAPI", "PostgreSQL"] },
@@ -147,10 +147,10 @@ export const teamData = [
         key: 6,
         id: "yigit-balaban",
         title: "Yigit Balaban",
-        role: "DevOps & Backend Engineer",
+        role: "System Architect",
         img: img6,
         github: "fybx",
-        spotifyTrackId: "3AJwUDP919kvQ9QcozQPxg", // Levitating - Dua Lipa
+        spotifyTrackId: "381g0b6QZxC13SzA2HRMIc", // Power Up - Red Velvet
         bio: "Infrastructure expert ensuring 99.99% uptime and seamless scalability. Specialist in cloud architecture and CI/CD automation.",
         expertise: ["DevOps", "Cloud Infrastructure", "System Reliability", "Kubernetes", "AWS", "Terraform"],
         achievements: [
@@ -208,7 +208,7 @@ export const teamData = [
             "Core contributor to major DeFi projects"
         ],
         education: "BSc Computer Science",
-        location: "Istanbul, Turkey",
+        location: "Ankara, Turkey",
         languages: ["Turkish", "English"],
         projects: [
             { name: "Cross-chain DEX", role: "Blockchain Developer", tech: ["Solidity", "Rust", "Cosmos"] },
@@ -248,7 +248,7 @@ export const teamData = [
         github: "cemalettinkursun",
         spotifyTrackId: "2takcwOaAZWiXQijPHIx7B", // Time - Hans Zimmer
         bio: "Research scientist developing cutting-edge AI models for predictive analytics and automation in blockchain.",
-        expertise: ["Machine Learning", "Deep Learning", "Research & Development", "NLP", "Computer Vision"],
+        expertise: ["Machine Learning", "Deep Learning", "Research & Development", "NLP", "Project Management"],
         achievements: [
             "Published 10+ AI research papers",
             "Created novel ML algorithms",
@@ -256,8 +256,8 @@ export const teamData = [
             "Google AI Residency alumni"
         ],
         education: "PhD AI (in progress), MSc Machine Learning",
-        location: "Istanbul, Turkey",
-        languages: ["Turkish", "English"],
+        location: "Konya, Turkey / Amsterdam, Netherlands",
+        languages: ["Turkish", "English", "Dutch"],
         projects: [
             { name: "Blockchain Analytics AI", role: "AI Researcher", tech: ["PyTorch", "Transformers", "Python"] },
             { name: "Market Prediction Model", role: "ML Researcher", tech: ["TensorFlow", "Keras", "Pandas"] }
@@ -274,7 +274,7 @@ export const teamData = [
         bio: "UI specialist crafting beautiful and intuitive interfaces for Web3 applications. Expert in modern frontend frameworks.",
         expertise: ["React", "UI/UX", "Web3 Integration", "TypeScript", "Tailwind CSS", "Animation"],
         achievements: [
-            "Designed 40+ user interfaces",
+            "Designed 20+ user interfaces",
             "Won 3 design awards",
             "Created viral design system",
             "Dribbble top designer"
@@ -304,7 +304,7 @@ export const teamData = [
             "Embedded systems consultant"
         ],
         education: "MSc Embedded Systems, BSc Electrical Engineering",
-        location: "Istanbul, Turkey",
+        location: "Bursa/Kayseri, Turkey",
         languages: ["Turkish", "English"],
         projects: [
             { name: "Blockchain Hardware Wallet", role: "Firmware Lead", tech: ["C", "ARM", "Secure Element"] },
@@ -326,8 +326,8 @@ export const teamData = [
             "Built scalable web applications",
             "Expert in modern JavaScript frameworks"
         ],
-        education: "BSc Computer Science",
-        location: "Istanbul, Turkey",
+        education: "BSc Computer Science (in progress)",
+        location: "Isparta, Turkey",
         languages: ["Turkish", "English"],
         projects: [
             { name: "Web3 DApp", role: "Full-Stack Developer", tech: ["React", "Node.js", "Solidity"] }
@@ -349,7 +349,7 @@ export const teamData = [
             "Database optimization specialist"
         ],
         education: "BSc Software Engineering",
-        location: "Istanbul, Turkey",
+        location: "Konya, Turkey",
         languages: ["Turkish", "English"],
         projects: [
             { name: "Enterprise Backend", role: "Backend Developer", tech: ["Node.js", "PostgreSQL", "Redis"] }
@@ -372,7 +372,7 @@ export const teamData = [
         ],
         education: "BSc Computer Engineering",
         location: "Remote",
-        languages: ["English"],
+        languages: ["English", "Urdu"],
         projects: [
             { name: "Distributed System", role: "Software Engineer", tech: ["Rust", "Go", "Kubernetes"] }
         ]
@@ -393,7 +393,7 @@ export const teamData = [
             "Active open source contributor"
         ],
         education: "BSc Computer Science",
-        location: "Istanbul, Turkey",
+        location: "Ankara, Turkey",
         languages: ["Turkish", "English"],
         projects: [
             { name: "Web Platform", role: "Developer", tech: ["JavaScript", "React", "Node.js"] }
@@ -414,8 +414,8 @@ export const teamData = [
             "Full-stack development expertise",
             "Technology enthusiast"
         ],
-        education: "BSc Computer Engineering",
-        location: "Istanbul, Turkey",
+        education: "BSc Computer Engineering (in progress)",
+        location: "Croatia",
         languages: ["Turkish", "English"],
         projects: [
             { name: "Cross-Platform App", role: "Developer", tech: ["React Native", "Node.js", "Firebase"] }
@@ -425,18 +425,18 @@ export const teamData = [
         key: 18,
         id: "zilxbt",
         title: "Zilxbt",
-        role: "Developer",
+        role: "Market Maker",
         img: "https://github.com/DopeCrewFriends.png",
         github: "DopeCrewFriends",
         spotifyTrackId: "2LBqCSwhJGcFQeTHMVGwy3",
         bio: "Developer contributing to blockchain and Web3 projects.",
         expertise: ["Blockchain", "Web3", "Development"],
         achievements: [
-            "Web3 enthusiast",
-            "Blockchain developer"
+            "Trader",
+            "Junior Blockchain developer"
         ],
-        education: "Computer Science",
-        location: "Remote",
+        education: "-",
+        location: "London, UK",
         languages: ["English"],
         projects: []
     }
