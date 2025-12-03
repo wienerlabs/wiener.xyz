@@ -91,7 +91,7 @@ gsap.registerPlugin(ScrollTrigger);
     </div>
 
     {/* Name Origin Section - Norbert Wiener */}
-    <div data-color="white" className="name-origin section w-full mt-16 sm:mt-24 lg:mt-40 px-4 sm:px-8">
+    <div data-color="white" className="name-origin section w-full mt-32 sm:mt-48 lg:mt-72 px-4 sm:px-8">
         <div className="w-full max-w-5xl mx-auto">
             {/* Section Header */}
             <div className="mb-6 sm:mb-10">
