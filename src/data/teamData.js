@@ -2,7 +2,6 @@ import kh0raImg from "../assets/images/team-pfp/kh0ra.png";
 import wilsonvellaImg from "../assets/images/team-pfp/wilsonvella.png";
 import pajImg from "../assets/images/team-pfp/0xpaj.png";
 import antigaporiaImg from "../assets/images/team-pfp/antigaporia.png";
-import mrshiroluImg from "../assets/images/team-pfp/mrshirolu.png";
 import thatbirdImg from "../assets/images/team-pfp/thatbird.png";
 import dilemmaImg from "../assets/images/team-pfp/dilemma.png";
 import uchinagaeriImg from "../assets/images/team-pfp/uchinagaeri.png";
@@ -433,78 +432,6 @@ export const teamData = [
   },
   {
     key: 7,
-    id: "mrshirolu",
-    title: "mrshirolu",
-    role: "Blockchain Developer",
-    img: mrshiroluImg,
-    bio: "Blockchain developer and Computer Engineering student building on-chain primitives across the RWA and tokenization stack, smart contracts, on-chain settlement, and protocol integrations.",
-    expertise: [
-      "Smart Contract Development",
-      "Solidity",
-      "Solana / Anchor",
-      "RWA Tokenization",
-      "Protocol Integration",
-      "Web3",
-    ],
-    achievements: [],
-    education: "BSc Computer Engineering (in progress)",
-    location: "Isparta, Turkey",
-    languages: ["Turkish", "English"],
-    projects: [],
-    technicalSkills: {
-      Languages: [
-        "Solidity",
-        "Cairo",
-        "Rust",
-        "Move",
-        "TypeScript",
-        "JavaScript",
-        "Go",
-        "Python",
-      ],
-      "Blockchain Platforms": [
-        "Ethereum",
-        "Solana",
-        "Starknet",
-        "Movement",
-        "Wormhole",
-        "Algorand",
-        "MINA",
-        "Monad",
-        "Units",
-        "Hyperliquid",
-        "Stacks",
-        "TON",
-        "Haqq Network",
-        "CoreDAO",
-        "Chainlink",
-        "Celestia",
-        "Scroll",
-        "Aptos",
-        "Sui",
-      ],
-      "Smart Contract Tooling": ["Anchor", "Foundry", "Hardhat", "Anvil"],
-      "Frameworks & Libraries": [
-        "Next.js",
-        "React",
-        "Vite",
-        "Node.js",
-        "Express",
-        "FastAPI",
-        "Wagmi",
-        "Viem",
-        "Solana web3.js",
-        "TailwindCSS",
-        "Jest",
-        "Synpress",
-        "httpx",
-      ],
-      Databases: ["PostgreSQL", "MongoDB", "SQL"],
-      "Other Tools": ["Git", "GitHub", "Kali"],
-    },
-  },
-  {
-    key: 8,
     id: "thatbird",
     title: "thatbird",
     role: "Low-Level Systems & Android Engineer",
@@ -565,7 +492,7 @@ export const teamData = [
     },
   },
   {
-    key: 9,
+    key: 8,
     id: "dilemma",
     title: "dilemma",
     role: "Senior Backend Engineer",
@@ -598,7 +525,7 @@ export const teamData = [
     },
   },
   {
-    key: 10,
+    key: 9,
     id: "uchinagaeri",
     title: "uchinagaeri",
     role: "Advisor",
@@ -628,7 +555,7 @@ export const teamData = [
     },
   },
   {
-    key: 11,
+    key: 10,
     id: "serebral",
     title: "serebral",
     role: "Senior Machine Learning Engineer",
@@ -655,7 +582,7 @@ export const teamData = [
     },
   },
   {
-    key: 12,
+    key: 11,
     id: "nightowl",
     title: "nightowl",
     role: "Market Maker",
@@ -677,7 +604,7 @@ export const teamData = [
     },
   },
   {
-    key: 13,
+    key: 12,
     id: "leo",
     title: "leo",
     role: "Smart Contract Security Engineer",
@@ -709,7 +636,7 @@ export const teamData = [
     },
   },
   {
-    key: 14,
+    key: 13,
     id: "lainaholic",
     title: "lainaholic",
     role: "Agentic Developer",
@@ -735,7 +662,7 @@ export const teamData = [
     },
   },
   {
-    key: 15,
+    key: 14,
     id: "isaac",
     title: "isaac",
     role: "Bot Systems & Social Media Operator",
